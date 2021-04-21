@@ -96,6 +96,13 @@ body{
         color : #03030349;
         float: under;
     }
+    .info-box h4{
+        padding : 0;
+        margin-bottom :0;
+        width : 90%;
+        color : #1378b749;
+        float: under;
+    }
 
     .info-box img.right{
         float      : right;
